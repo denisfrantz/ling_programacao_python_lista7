@@ -1,0 +1,1 @@
+Ele é executado apenas quando o programa não entra em nenhuma excessão.

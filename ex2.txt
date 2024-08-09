@@ -1,0 +1,1 @@
+É um bloco usado para garantir que as instruções nele contidas sejam executadas mesmo após um erro.

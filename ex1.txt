@@ -1,0 +1,3 @@
+Uma excessão é uma dificuldade não esperada pelo programa.
+A finalidade do tratamento é preparar o programa para situações de erros, 
+evitando que ele apenas trave ou feche.
